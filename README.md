@@ -43,8 +43,8 @@ This repository contains an Exploratory Data Analysis (EDA) project based on a s
    jupyter notebook "Marine Fish Data Analysis.ipynb"
    
 ## Tools and Libraries Used
-     Pandas: For data cleaning and manipulation.
-     Matplotlib and Seaborn: For data visualization.
-     NumPy: For numerical computations.
+    - Pandas: For data cleaning and manipulation.
+    - Matplotlib and Seaborn: For data visualization.
+    - NumPy: For numerical computations.
 
 
