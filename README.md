@@ -37,9 +37,10 @@ This repository contains an Exploratory Data Analysis (EDA) project based on a s
    ```bash
    git clone https://github.com/yourusername/marine-fish-eda.git
    
-## Install the required Python libraries:
+2. Install the required Python libraries:
    pip install -r requirements.txt
-## Open and run Jupyter Notebook
+   
+3. Open and run Jupyter Notebook
    jupyter notebook "Marine Fish Data Analysis.ipynb"
    
 ## Tools and Libraries Used
